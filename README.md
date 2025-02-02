@@ -20,6 +20,7 @@ For each pair of i and j values (i.e., for each query), print a single integer t
 9
 
 **Solution**
+<code>
 #include<cmath>
 #include<cstdio>
 #include<vector>
@@ -48,3 +49,4 @@ int main() {
 
     return 0;
 } 
+</code>
